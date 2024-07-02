@@ -1,5 +1,4 @@
 # Path Finding Algorithms Visualizer
-
 This is a maze solver program that reads a maze from a file and creates the maze as a graph. The program then uses the graph to find the path from the start to the end of the maze specified in the input file. The following algorithms are used to solve the maze:
 
 1. Breadth First Search
@@ -7,6 +6,14 @@ This is a maze solver program that reads a maze from a file and creates the maze
 3. Greedy Best First Search
 4. Random Search
 5. A* Search
+
+## Symbols used in the maze
+
+- `S` - Start
+- `E` - End
+- `#` - OPENED
+- `O` - PATH
+- `X` - WALL
 
 ## How to run the program
 
