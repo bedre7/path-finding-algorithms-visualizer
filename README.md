@@ -1,4 +1,4 @@
-# Path Finding Algorithms Visualizer
+# About
 
 This is a maze solver program that reads a maze from a file and creates the maze as a graph. The program then uses the graph to find the path from the start to the end of the maze specified in the input file. The following algorithms are used to solve the maze:
 
