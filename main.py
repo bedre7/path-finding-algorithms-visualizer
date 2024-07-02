@@ -18,8 +18,7 @@ if __name__ == '__main__':
     filePath = sys.argv[1]
     mazeSolver = MazeSolver(filePath)
     print('***********************************************************************')
-    print('*****                   Maze Solver                               *****')
-    print('*****            By: Mohammed, Bedru Umer                         *****')
+    print('*****              Path Finding Algorithms Visualizer             *****')
     print('***********************************************************************')
     
     while True:
